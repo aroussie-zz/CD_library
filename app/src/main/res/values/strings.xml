@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Parser</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_login">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="error_invalid_login">The login is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_login_required">A login is required</string>
+    <string name="error_password_required">A password is required</string>
+    <string name="success">Redirecting...</string>
+    <string name="noTriesLeft">You made too much wrong tentatives</string>
+
+    <string name="login_correct">bob</string>
+    <string name="password_correct">dylan</string>
+
+    <!-- Strings related to mainActivity -->
+    <string name="showAllBox">Show all CDs</string>
+    <string name="showSoldOutBox">Show only sold out CDs</string>
+
+</resources>
